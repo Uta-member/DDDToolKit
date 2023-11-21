@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="MagicOnion" Version="5.1.8" />
+    <PackageReference Include="MessagePipe" Version="1.7.4" />
+  </ItemGroup>
+
 </Project>
